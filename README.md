@@ -123,9 +123,9 @@ Agora habilitando o MCP Server, irá consultar minha tool de `query_ecommerce`:
 
 ![image.png](assets/image%204.png)
 
-<img src="assets/4bd0266c-139b-4e7a-b841-0954256dd205.png" width="400">
-
 <img src="assets/c3b2fdda-c5a2-43b1-bb3e-c3e4fc6e777c.png" width="400">
+
+<img src="assets/4bd0266c-139b-4e7a-b841-0954256dd205.png" width="400">
 
 <img src="assets/c4274a5b-8819-48a6-96bb-ac5ab89a0921.png" width="400">
 
