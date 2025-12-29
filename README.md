@@ -19,7 +19,7 @@ A arquitetura apresentada é apenas para fins de prova de conceito, não sendo a
 
 O MCP Server atua como uma **ponte entre modelos de IA e o mundo real**, permitindo que aplicações exponham funcionalidades, dados e operações de forma estruturada para serem consumidos por modelos compatíveis com o protocolo MCP.
 
-Em vez de criar integrações específicas para cada caso, o MCP propõe um **contrato padronizado** que transforma ferramentas e serviços em extensões reutilizáveis da IA.
+**Em vez de criar integrações específicas para cada caso, o MCP propõe um contrato padronizado que transforma ferramentas e serviços em extensões reutilizáveis da IA.**
 
 Na prática, o MCP Server possibilita que um modelo:
 
